@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+
+# Models and large files
+src/models/*
+*.ckpt
+
+# OS-specific
+.DS_Store
+Thumbs.db
